@@ -1,5 +1,5 @@
 # DrinksWarehouse  
-Solution for a technical problem for a company..  
+Solution for a technical problem for a company interview.  
 Summarized prompt  
 In Java, make a warehouse class that stores beverages. These beverages can be water or soft-drinks which have an id, volume, price, and brand.  
 Water also has an origin such as oasis or reserve.  
